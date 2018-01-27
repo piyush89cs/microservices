@@ -61,3 +61,5 @@ account-service/bin
 account-service/gradle
 registration-server/bin
 registration-server/gradle
+web-service/bin
+web-service/gradle
