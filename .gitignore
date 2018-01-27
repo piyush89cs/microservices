@@ -57,3 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
+account-service/bin
+account-service/gradle
+registration-server/bin
+registration-server/gradle
